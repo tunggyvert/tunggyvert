@@ -5,7 +5,7 @@ Passionate about Software Development with a strong interest in **Software Engin
 ---
 
 ### 📌 About Me
-🎓 **Computer Science Student** @ *King Mongkut's University of Technology North Bangkok (KMUTNB)*
+🎓 **Computer Science** @ *King Mongkut's University of Technology North Bangkok (KMUTNB)*
 * ✉️ **Contact:** [j.wuttichaiyakul@gmail.com](mailto:j.wuttichaiyakul@gmail.com)
 
 ---
